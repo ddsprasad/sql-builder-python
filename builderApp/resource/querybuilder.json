@@ -1,0 +1,7 @@
+{"type":"col",
+  "tableName":"products",
+  "sharedkey":["ProductId"],
+  "primarykey":"ProductId",
+  "prefix":"STG",
+  "key":["Price","Color"],
+  "columns":["ProductId INT","Color VARCHAR(10)","Price INT","dt DATETIME"]}
