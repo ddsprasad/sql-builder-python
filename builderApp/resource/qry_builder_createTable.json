@@ -1,4 +1,4 @@
-{"type":"col",
+{"type":"row",
 "tableName":"vsb_digital_fct_tbl",
 "sharedkey":["status_dt","ord_id","item_id","loc_num"],
 "primarykey":"ord_id",
